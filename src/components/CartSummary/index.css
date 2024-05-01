@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.crt-sry {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  padding: 10px;
+  gap: 0px;
+  font-family: 'roboto';
+}
+
+.total {
+  color: #616e7c;
+  font-size: 23px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 5px;
+}
+.ln {
+  color: #616e7c;
+  padding: 0px;
+  margin: 0px;
+}
+.sp {
+  color: black;
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+}
+.btn-ch {
+  background-color: #0b69ff;
+  border: none;
+  padding: 8px;
+  margin-top: 10px;
+  color: white;
+}
